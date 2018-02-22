@@ -12,4 +12,10 @@ public class SampleController {
         String info="Sample Jenkins Demo Apps";
         return info;
     }
+
+    @GetMapping("/testing")
+    public String sample(){
+        String info="Sample Jenkins Demo Apps";
+        return info;
+    }
 }
