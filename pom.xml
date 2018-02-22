@@ -79,9 +79,9 @@
 					<execution>
 						<id>jacoco-site</id>
 						<phase>clean</phase>
-						<!--<goals>
+						<goals>
 							<goal>report</goal>
-						</goals>-->
+						</goals>
 					</execution>
 				</executions>
 			</plugin>
